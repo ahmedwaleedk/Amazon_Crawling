@@ -36,13 +36,9 @@ ScraperAPI: A vital third-party service that manages proxies and handles anti-bo
 Clone the repository:
 Bash
 
-git clone https://github.com/NourHossam21/Web_Crawling.git
-cd Web_Crawling
-Create a virtual environment (highly recommended):
-Bash
 
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows, use 
 Install project dependencies:
 Bash
 
