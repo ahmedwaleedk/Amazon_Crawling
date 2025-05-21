@@ -1,6 +1,9 @@
 Amazon Product Scraper & Analyzer
 This project is a sophisticated web crawling solution primarily focused on ethical and efficient data extraction from Amazon.com. It leverages advanced techniques to navigate Amazon's dynamic website, collect product information, and provide an interactive interface for analysis.
 
+
+
+
 🚀 Key Features
 Advanced Amazon Product Scraping:
 Dynamic Content Handling: Utilizes Selenium to fully render JavaScript-heavy Amazon product pages, ensuring all data is accessible.
