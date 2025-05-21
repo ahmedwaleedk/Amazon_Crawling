@@ -32,21 +32,6 @@ ScraperAPI: A vital third-party service that manages proxies and handles anti-bo
 
 
 
-⚙️ Setup
-Clone the repository:
-Bash
-
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use 
-Install project dependencies:
-Bash
-
-pip install -r requirements.txt
-# (Ensure your `requirements.txt` file lists all the technologies mentioned above)
-Obtain and configure your ScraperAPI Key:
-Sign up for an API key at ScraperAPI.
-Integrate this key into your amazon_scraper.py script, typically by setting an environment variable or directly assigning it to a variable within the script.
 
 
 
